@@ -1,5 +1,5 @@
 # notes_keeper
-[Live Demo](https://eloquent-shaw-75a677.netlify.app)
+[Live Demo](https://animeshraj123.github.io/notes_keeper/)
 ## Description
 * Designed a web based application.
 * Developed user interface to stores to-do’s data in notes format.
